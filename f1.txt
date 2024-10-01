@@ -1,0 +1,3 @@
+WELCOME TO SE LAB
+we are using git bash
+this is lab session
